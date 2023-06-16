@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SIBACA</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get started</string>
+    <string name="create_account">Membuat akun?</string>
+    <string name="register">Daftar</string>
+    <string name="already_have_account">Sudah mempunyai akun?</string>
+    <string name="login">Masuk</string>
+    <string name="email_validation">Enter a valid email address!</string>
+    <string name="password_length">This field can\'t be less than 6 character</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="the_title_welcome_back_user_section">Welcome to SIBACA!</string>
+    <string name="the_message_welcome_share_section">Sistem Baca Cerdas (Aplikasi Pengenal Huruf Angka) merupakan solusi terbaik yang dapat digunakan untuk mengurangi urgensi dengan membuat aplikasi membaca yang berfokus pada pengenalan teks dan angka.</string>
+    <string name="create_user_account">Create an Account</string>
+    <string name="the_title_registration_section">Please fill out your information in the provided fields!</string>
+    <string name="the_picture_register_user">Join us by registering here!</string>
+    <string name="the_password_length">The length of this field must be a minimum of 8 characters!</string>
+    <string name="the_title_register_user">Registration Form</string>
+    <string name="the_user_register_failed">Register Failed, Please Try Again..</string>
+    <string name="the_user_register_success">Register Success, Please Login..</string>
+    <string name="the_title_login_user">Login Form</string>
+    <string name="the_user_login_failed">Login Failed, Please Try Again..</string>
+    <string name="the_required_field">You must complete this field.</string>
+    <string name="the_title">Title</string>
+    <string name="the_story_description">Description</string>
+    <string name="select_language">Select a Language</string>
+    <string name="label_logout_user">Logout</string>
+    <string name="label_capture_the_photo">Take Picture</string>
+    <string name="label_upload_the_picture">Upload Picture</string>
+    <string name="label_open_the_file">Open File</string>
+    <string name="info_input_the_image">Please upload the image file before proceeding!</string>
+    <string name="info_email_validation">Ensure that the email address you enter is valid!</string>
+    <string name="info_re_try">Retry</string>
+</resources>
